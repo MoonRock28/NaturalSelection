@@ -1,0 +1,155 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 2, 2016, 3:34:07 PM
+    Author     : david
+*/
+head{
+    font-family: Verdana, sans-serif;
+}
+
+body{
+    font-size: 18px;
+    font-family:" Arial", Charcoal, sans-serif;
+    background-color: rgb(0,0,0);
+    text-align:center;
+    padding:50px;
+    border: 5px solid gold;
+    margin: 100px;
+}
+
+p{
+    color:green;
+    font-family: "Arial", sans-serif;
+    text-align:left;
+    position="right";
+}
+
+h1{
+    text-align:center;
+    color:Orange;
+    font-family: "Impact", Charcoal, sans-serif;
+    font-size: 36px;
+}
+
+h2{
+    font-family:"Arial", Helvetica, sans-serif;
+    text-align:center;
+    color:yellow;
+    font-size: 24px;
+}
+
+h5{
+    color:red;
+    font-size: 20px;
+    font-family: "Georgia", serif;
+}
+
+.rotate{
+    -webkit-transitional:all 1.0s ease-out;
+    -moz-tranistional:all 1.0s ease-out;
+    -ms-transitional:all 1.0s ease-out;
+    -o-transitional:all 1.0s ease-out;
+    tranistional:all 1.0s ease-out;
+}
+
+.rotate:hover{
+    -webkit-transform:rotate(360deg);
+    -moz-transform:rotate(360deg);
+    -ms-transform:rotate(360deg);
+    -o-transform:rotate(360deg);
+    transform:rotate(360deg);
+}
+
+img{
+    display: inline;
+}
+
+ul{
+    color:green;
+    padding: 0px;
+    margin: 10px color: white;
+    list-style-type:none;
+    text-align:left;
+}
+
+ul a.hover{
+    background-color: black;
+    color: red;
+}
+
+li{
+    align-content: stretch;
+    display: inline;
+    width: 100px;
+    padding: 5px;
+    border: 5px solid navy;
+    margin: 5px;
+    color:yellow;
+    text-align:center;
+    background-color: rgb(0,0,0);
+}
+
+a{color:cyan;}
+
+button{
+    text-align:center;
+    color:blue;
+}
+
+h3{
+    color: yellow;
+    font-family: "Arial", sans-serif;
+}
+
+form{
+    color:red
+    text-align:center
+}
+
+h4{
+    color:white;
+    text-align:justified;
+}
+
+div{
+    color:white;
+}
+
+thead{
+    color:green;
+}
+
+tr{
+    text-align: center;
+    color: orange;
+}
+
+td{
+    color:white;
+}
+
+#Title{
+    background-color: grey;
+}
+
+.center{
+    color:white;
+    background-color:grey;
+}
+
+#content{
+    display:inline-block;
+}
+
+.colLeft{
+    position:left;
+}
+
+.colRight{
+    position:right;
+}
+
